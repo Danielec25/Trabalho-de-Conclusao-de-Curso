@@ -45,6 +45,7 @@ E-mail: danielychaves55@gmail.com
 ## 👩‍💻 Orientador
 
 **Andrey Antônio Rodrigues**
+
 Doutor em em Informática pela Universidade Federal do Amazonas (UFAM)
 E-mail: 
 
