@@ -17,7 +17,7 @@ A proposta envolve a análise de dados simulados, pré-processamento, engenharia
 - Python
 - Apache Spark
 - Pandas / NumPy
-- Scikit-learn
+- Databricks Community
 - Google Colab
 
 ---
