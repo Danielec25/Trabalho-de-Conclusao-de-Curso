@@ -34,11 +34,11 @@ A proposta envolve a análise de dados simulados, pré-processamento, engenharia
 
 ---
 
-## 👩‍💻 Autor
-
-**Daniele Chaves Dos Santos**  
+**Daniele Chaves**  
+Estagiária em Ciência de Dados na Bemol Digital  
 Graduanda em Sistemas de Informação - UFAM  
-E-mail: danielychaves55@gmail.com
+📧 danielychaves55@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/daniele-chaves-65a859138)
 
 ---
 
