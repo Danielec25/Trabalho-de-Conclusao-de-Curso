@@ -1,4 +1,4 @@
-# TFG - Detecção de Fraudes em Transações Pix Usando Aprendizado de Máquina
+# TCC - Detecção de Fraudes em Transações Pix Usando Algoritmos de Aprendizado de Máquina
 
 Este repositório é exclusivo para o **armazenamento oficial dos dados, códigos, documentos e demais materiais** relacionados ao meu **Trabalho Final de Graduação (TFG)** do curso de **Sistemas de Informação** da 
 **Universidade Federal do Amazonas (UFAM)**.
