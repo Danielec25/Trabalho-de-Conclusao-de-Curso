@@ -28,7 +28,7 @@ Para acessar o presente trabalho publicado acesse o seguinte link: https://riu.u
 ---
 ## 📊 Resultados
 
-📌 Após testes com diferentes algoritmos (Random Forest, Decision Tree, KNN, etc.), o modelo **XGBoost** apresentou o melhor desempenho:
+📌 Após testes com diferentes algoritmos (Random Forest, Decision Tree, etc.), o modelo **XGBoost** apresentou o melhor desempenho:
 
 - **Acurácia:** 97%  
 - **F1-Score:** 97%  
