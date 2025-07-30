@@ -10,19 +10,20 @@ Este repositório é exclusivo para o **armazenamento oficial dos dados, código
 Este trabalho tem como objetivo desenvolver e avaliar modelos de aprendizado de máquina para a **detecção de fraudes em transações Pix**, uma modalidade de pagamento instantâneo adotada no Brasil. 
 A proposta envolve a análise de dados simulados, pré-processamento, engenharia de atributos, treinamento e avaliação de modelos de classificação.
 
+Para acessar o presente trabalho publicado acesse o seguinte link: https://riu.ufam.edu.br/handle/prefix/8898
+
 ---
 
 ## 🧠 Tecnologias Utilizadas
 
-- Python
-- Apache Spark
-- Pandas / NumPy
-- Databricks Community
+- Python (Pandas, NumPy, Scikit-learn)
+- Apache Spark (PySpark)
+- XGBoost
+- Decision Tree
+- Random Forest
+- Logistic Regression 
 - Google Colab
-
----
-
-## 📁 Estrutura do Repositório
+- Databricks Community Edition
 
 ---
 
@@ -31,6 +32,7 @@ A proposta envolve a análise de dados simulados, pré-processamento, engenharia
 - Todos os dados aqui armazenados são **anônimos** ou **simulados** para fins acadêmicos.
 - O conteúdo deste repositório tem finalidade **exclusivamente educacional e científica**.
 - Em caso de uso ou citação, favor mencionar a fonte conforme as normas da ABNT ou da sua instituição.
+- Se mencionado este trabalho use como citação: SANTOS, Daniele Chaves dos. Detecção de fraudes em transações Pix com algoritmos de aprendizado de máquina. 2025. 34 f. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação) - Universidade Federal do Amazonas, Itacoatiara (AM),2025.
 
 ---
 
