@@ -26,6 +26,15 @@ Para acessar o presente trabalho publicado acesse o seguinte link: https://riu.u
 - Databricks Community Edition
 
 ---
+## 📊 Resultados
+
+📌 Após testes com diferentes algoritmos (Random Forest, Decision Tree, KNN, etc.), o modelo **XGBoost** apresentou o melhor desempenho:
+
+- **Acurácia:** 97%  
+- **F1-Score:** 97%  
+- **Precisão e Recall altos mesmo em dados minoritários e desbalanceados**
+
+---
 
 ## 📌 Observações
 
